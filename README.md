@@ -1,1 +1,3 @@
-# Introduction-to-Information-Technology
+#Kacper Fornalski
+---
+##it's a good place to check your IT progress
