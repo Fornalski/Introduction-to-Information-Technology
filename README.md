@@ -2,3 +2,6 @@
 ---
 ## >it's a good place to check your IT progress
 nothing more to do so.
+
+
+![Photo 1](/Photo_1.png)
