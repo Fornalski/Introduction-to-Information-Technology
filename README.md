@@ -4,4 +4,4 @@
 nothing more to do so.
 
 
-![Photo 1](./Photo_1.png)
+![Photo 1](/photo_1.png)
